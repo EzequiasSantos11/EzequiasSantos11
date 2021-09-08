@@ -22,5 +22,5 @@
     <a href = "ezequiasmg16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ezequias-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://chat.whatsapp.com/ExpwgdxIt9aKzTWvWvg5xL" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    ![Snake animation](https://github.com/ezequiassantos11/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/ezequiassantos11/ezequiassantos11/blob/github-contribution-grid-snake.svg)
   </div>
