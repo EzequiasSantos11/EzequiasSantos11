@@ -1,4 +1,4 @@
-## Oie! Meu nome é Ezequias
+# Oie! Meu nome é Ezequias
 <div>
   <a href="https://www.linkedin.com/in/ezequias-dev/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezequiassantos11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
